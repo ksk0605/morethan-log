@@ -6,9 +6,9 @@ const CONFIG = {
     role: "Flutter developer",
     bio: "플러터를 주력으로 다양한 개발을 즐깁니다",
     email: "sungkyum1@gmail.com",
-//     linkedin: "morethanmin",
+    linkedin: "",
     github: "github.com/ksk0605",
-//     instagram: "",
+    instagram: "",
   },
   projects: [
     {
