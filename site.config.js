@@ -4,15 +4,15 @@ const CONFIG = {
     name: "SungKyum-Log",
     image: "/sungkyum-log-avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Flutter developer",
-    bio: "플러터를 주력으로 다양한 개발을 즐깁니다",
+    bio: "플러터를 주력으로\n다양한 개발을 즐깁니다",
     email: "sungkyum1@gmail.com",
     linkedin: "",
-    github: "github.com/ksk0605",
+    github: "ksk0605",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `morethan-log 레포`,
       href: "https://github.com/ksk0605/morethan-log",
     },
   ],
